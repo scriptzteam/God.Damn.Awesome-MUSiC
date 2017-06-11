@@ -2,32 +2,32 @@
 
 Categories List:
 
-Gym
+Gym:
         hiphop
 	rapcore
 	numetal
 	
-Cardio
+Cardio:
         edm
 	dance
 	house
 
-Hardcore
+Hardcore:
         hardcore
 	hardrock
 	metal
 
-Crossfit
+Crossfit:
         trap
 	house
 	pop
 
-Fight
+Fight:
         rapcore
 	raprock
 	hiphop
 
-Fitness
+Fitness:
         progressive
 	future
 	hiphop
